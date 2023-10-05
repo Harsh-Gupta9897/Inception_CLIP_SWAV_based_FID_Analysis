@@ -2,7 +2,7 @@
 
 **_Project Overview_**
 
-This project focuses on conducting a comprehensive comparison study between self-supervised-based metrics and the traditional Inception-based FID (Fréchet Inception Distance) for evaluating the quality of generated results. We explore the impact of various data augmentations on the distribution of FID scores using different metric models, including InceptionV3, CLIP, and SWAV.
+This project focuses on conducting a comprehensive comparison study between self-supervised-based metrics and the traditional Inception-based FID (Fréchet Inception/CLIP/SWAV Distance) for evaluating the quality of generated results. We explore the impact of various data augmentations on the distribution of FID scores using different metric models, including InceptionV3, CLIP, and SWAV.
 
 **_Key Highlights_**
 
