@@ -1,0 +1,17 @@
+Evaluation Metric,FID_LLR1
+CIFAR100_CirShift,0.137
+CIFAR100_ColorJitter,3.676
+CIFAR100_ElasticTransform,0.877
+CIFAR100_Gaussian_Blur,0.765
+CIFAR100_HorizontalFlip,0.0
+CIFAR100_RandomAugmentation,1.408
+CIFAR100_RandomPosterize,0.159
+CIFAR100_RandomPrespective,4.495
+CIFAR100_RandomRot30deg,0.305
+CIFAR100_RandomRotation_Scale,9.445
+CIFAR100_Rot20deg,0.54
+CIFAR100_Rot50deg,0.909
+CIFAR100_Rot90deg,0.011
+CIFAR100_VerticalFlip,0.015
+CIFAR100_ZoomIN,2.51
+CIFAR100_ZoomOut,0.283
