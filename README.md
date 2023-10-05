@@ -1,9 +1,23 @@
 # Inception_CLIP_SWAV_based_FID_Analysis
 
+**_Project Overview_**
 
-Inception ,CLIP, SWAV based_FID_Analysis for CelebA and CIFAR dataset
+This project focuses on conducting a comprehensive comparison study between self-supervised-based metrics and the traditional Inception-based FID (Fréchet Inception Distance) for evaluating the quality of generated results. We explore the impact of various data augmentations on the distribution of FID scores using different metric models, including InceptionV3, CLIP, and SWAV.
 
-### Results:
+**_Key Highlights_**
+
+- **Self-Supervised Metrics vs. Inception-Based FID**: We delve into the differences and similarities between self-supervised metrics and the widely used Inception-based FID metric. This comparison provides insights into the strengths and weaknesses of each approach for evaluating the quality of generated data.
+
+- **Augmentation Techniques**: We have implemented a variety of data augmentation techniques, each designed to modify the input data in a specific way. These augmentations include rotation, flipping, zooming, color jittering, and more. By applying these augmentations, we aim to understand their impact on the distribution of FID scores.
+
+- **Metric Models**: We leverage multiple metric models, including InceptionV3, CLIP, and SWAV, to assess the quality of generated data. This multi-model approach allows us to gain a more comprehensive perspective on the evaluation process.
+
+- **Dataset Used**: CelebA, CIFAR10 
+
+**_Results and Insights_**
+
+The results of this study are presented in the table below, showcasing FID scores obtained with different augmentations and metric models:
+
 
 | Evaluation Metric          | FID_InceptionV3 | FID_CLIP | FID_SWAV |
 |---------------------------|-----------------|----------|----------|
